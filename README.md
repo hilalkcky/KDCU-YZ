@@ -1,5 +1,5 @@
 ## Yapay Zeka ile Kodlama Dillerini Çeviren Uygulama
-
+# Acıkhack2024TDDİ
 Bu proje, yapay zeka tekniklerini kullanarak farklı programlama dilleri arasındaki çevirileri kolaylaştırmayı amaçlayan açık kaynaklı bir uygulamadır. Özellikle Java ve C# dilleri arasındaki karşılıklı çeviriler için optimize edilmiştir.
 
 # Temel Özellikler:
